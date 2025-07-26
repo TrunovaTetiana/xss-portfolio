@@ -27,13 +27,13 @@
 ## 🖼️ Screenshot Evidence
 
 📸 **Screenshot 1**: DOM alert triggered from injected payload  
-![DOM Alert Triggered](./api-xss-innerHTML-1.png)
+![DOM Alert Triggered](../SCREENSHOTS/api-xss-innerHTML-1.png)
 
 📸 **Screenshot 2**: Developer tools showing injection context with `innerHTML`  
-![DOM Injection Context](./api-xss-innerHTML-2.png)
+![DOM Injection Context](..SCREENHOTS/api-xss-innerHTML-2.png)
 
 📸 **Screenshot 3**: View of rendered vulnerable page and source  
-![Source and Execution](./api-xss-innerHTML-3.png)
+![Source and Execution](../SCREENSHOTS/api-xss-innerHTML-3.png)
 
 ---
 
