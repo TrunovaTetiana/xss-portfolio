@@ -25,13 +25,13 @@
 ### 🖼️ Screenshot Evidence
 
 #### 📸 Screenshot 1: XSS alert triggered
-![XSS-template-1](./api-xss-template-1.png)
+![XSS-template-1](../SCREENSHOTS/api-xss-template-1.png)
 
 #### 📸 Screenshot 2: JavaScript context with devtools open
-![XSS-template-2](./api-xss-template-2.png)
+![XSS-template-2](../SCREENSHOTS/api-xss-template-2.png)
 
 #### 📸 Screenshot 3: Clean DOM inspection
-![XSS-template-3](./api-xss-template-3.png)
+![XSS-template-3](../SCREENSHOTS/api-xss-template-3.png)
 
 ---
 
